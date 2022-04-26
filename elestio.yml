@@ -1,4 +1,4 @@
- ports:
+ports:
   - protocol: "HTTPS"
     targetProtocol: "HTTP"
     listeningPort: "443"
